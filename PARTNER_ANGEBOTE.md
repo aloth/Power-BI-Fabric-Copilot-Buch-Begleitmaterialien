@@ -1,6 +1,6 @@
 # Exklusive Partner-Angebote für Leser
 
-Als Leser des Buches "Datenvisualisierung mit Power BI" erhalten Sie hier Zugang zu exklusiven Angeboten und Vorteilen unserer Partner. Diese sorgfältig ausgewählten Ressourcen sollen Ihnen helfen, Ihre Lernerfahrung zu vertiefen und das Gelernte mit spannenden, realen Daten auszuprobieren.
+Als Leser des Buches "Microsoft Power BI: Das Praxisbuch für Datenvisualisierung und -analyse. Inkl. Fabric und Copilot" erhalten Sie hier Zugang zu exklusiven Angeboten und Vorteilen unserer Partner. Diese sorgfältig ausgewählten Ressourcen sollen Ihnen helfen, Ihre Lernerfahrung zu vertiefen und das Gelernte mit spannenden, realen Daten auszuprobieren.
 
 ---
 
