@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this book in your research, please cite it as below."
+type: book
+title: "Microsoft Power BI: Das Praxisbuch für Datenvisualisierung und -analyse"
+authors:
+  - family-names: Loth
+    given-names: Alexander
+    orcid: https://orcid.org/0000-0003-4157-7557
+  - family-names: Vogel
+    given-names: Peter
+date-released: 2026-01-01
+year: 2026
+publisher:
+  name: mitp
+  city: Frechen
+isbn: 978-3-7475-1102-2
+url: https://alexloth.com/power-bi-buch/
+repository-code: https://github.com/aloth/Power-BI-Fabric-Copilot-Buch-Begleitmaterialien
+keywords:
+  - Power BI
+  - Microsoft Fabric
+  - Copilot
+  - data visualization
+  - business intelligence
+license: CC-BY-4.0

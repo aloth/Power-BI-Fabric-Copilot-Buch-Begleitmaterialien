@@ -126,17 +126,18 @@ Haben Sie einen Fehler gefunden, eine Frage zu einer Übung oder eine Idee für 
 
 ## 📖 Zitieren
 
-Wenn Sie Inhalte aus diesem Buch in wissenschaftlichen Arbeiten verwenden, nutzen Sie bitte diesen BibTeX-Eintrag::
+Wenn Sie Inhalte aus diesem Buch in wissenschaftlichen Arbeiten verwenden, nutzen Sie bitte diesen BibTeX-Eintrag:
 
 ```bibtex
-@book{loth_2026_pbicopilot,
-    title        = {Microsoft Power BI: Das Praxisbuch für Datenvisualisierung und -analyse. Inkl. Fabric und Copilot},
-    shorttitle   = {Microsoft Power BI: Das Praxisbuch},
-    author       = {Loth, Alexander and Vogel, Peter},
-    year         = {2026},
-    publisher    = {MITP-Verlags GmbH \& Co. KG},
-    isbn         = {978-3-7475-1102-2},
-    url          = {https://github.com/aloth/Power-BI-Fabric-Copilot-Buch-Begleitmaterialien/}
+@book{loth2026powerbi,
+  title      = {Microsoft Power BI: Das Praxisbuch für Datenvisualisierung und -analyse},
+  shorttitle = {Power BI Praxisbuch},
+  author     = {Loth, Alexander and Vogel, Peter},
+  year       = {2026},
+  publisher  = {mitp},
+  address    = {Frechen},
+  isbn       = {978-3-7475-1102-2},
+  url        = {https://alexloth.com/power-bi-buch/}
 }
 ```
 
